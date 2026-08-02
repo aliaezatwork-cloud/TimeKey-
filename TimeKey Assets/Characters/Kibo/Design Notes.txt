@@ -1,0 +1,133 @@
+==================================================
+CHARACTER DESIGN NOTES
+==================================================
+
+Character ID:
+CHR002
+
+Character Name:
+Kibo
+
+Role:
+Time Guardian Companion
+
+Species:
+Ancient Time Spirit
+
+Gender:
+Unknown
+
+Age:
+Unknown
+
+==================================================
+APPEARANCE
+==================================================
+
+Height:
+25 cm
+
+Body Shape:
+Small
+Round
+Cute
+
+Feathers:
+White
+Soft
+Golden highlights
+
+Wing Tips:
+Turquoise
+
+Eyes:
+Large glowing sky blue
+
+Beak:
+Small
+
+Tail:
+Three glowing feathers
+
+Halo:
+Floating glowing Ankh symbol
+
+==================================================
+PERSONALITY
+==================================================
+
+Playful
+
+Funny
+
+Curious
+
+Loyal
+
+Protective
+
+Energetic
+
+Sometimes mischievous
+
+Loves shiny objects
+
+Afraid of darkness
+
+==================================================
+ABILITIES
+==================================================
+
+Detect hidden secrets
+
+Guide the player
+
+Translate ancient symbols
+
+Activate magical mechanisms
+
+Open time portals
+
+Point toward objectives
+
+==================================================
+ANIMATIONS
+==================================================
+
+Hover
+
+Fly in circles
+
+Sit on Zaya's shoulder
+
+Wing flap
+
+Happy spin
+
+Sleep in the air
+
+==================================================
+SOUNDS
+==================================================
+
+Cute chirps
+
+Magical hum
+
+Wing flutter
+
+Soft glowing sound
+
+==================================================
+COLOR PALETTE
+==================================================
+
+White
+
+Gold
+
+Turquoise
+
+Sky Blue
+
+==================================================

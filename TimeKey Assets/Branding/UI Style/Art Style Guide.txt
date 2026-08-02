@@ -1,0 +1,104 @@
+===========================================
+TIMEKEY ART STYLE GUIDE
+===========================================
+
+Official Art Style
+
+Semi-Realistic Stylized
+
+===========================================
+
+Target Platform
+
+Android
+Landscape
+
+===========================================
+
+Visual Style
+
+Pixar-inspired character appeal
+
+Semi-realistic proportions
+
+Large expressive eyes
+
+Friendly facial features
+
+Soft realistic materials
+
+Rich cinematic lighting
+
+High-quality PBR textures
+
+Warm color palette
+
+Magical atmosphere
+
+Ancient Egypt meets modern fantasy
+
+===========================================
+
+3D Style
+
+Stylized Low Poly
+
+Optimized for mobile
+
+Clean topology
+
+Game-ready assets
+
+Smooth animations
+
+===========================================
+
+Environment Style
+
+Semi-realistic
+
+Cinematic
+
+Warm sunlight
+
+Volumetric lighting
+
+Ancient temples
+
+Soft magical effects
+
+===========================================
+
+UI Style
+
+Modern
+
+Minimal
+
+Rounded corners
+
+Gold accents
+
+Turquoise highlights
+
+Ancient Egyptian patterns
+
+===========================================
+
+Overall Feeling
+
+Wonder
+
+Adventure
+
+Discovery
+
+Magic
+
+Hope
+
+Learning
+
+Family Friendly
+
+Premium AAA-inspired Quality

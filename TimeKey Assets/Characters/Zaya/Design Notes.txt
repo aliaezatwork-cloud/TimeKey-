@@ -1,0 +1,163 @@
+==================================================
+CHARACTER DESIGN NOTES
+==================================================
+
+Character ID:
+CHR001
+
+Character Name:
+Zaya
+
+Role:
+Main Playable Character
+
+Age:
+13 Years
+
+Nationality:
+Egyptian
+
+Gender:
+Female
+
+Occupation:
+Young Explorer
+
+==================================================
+APPEARANCE
+==================================================
+
+Height:
+155 cm
+
+Body Type:
+Slim, athletic, agile
+
+Skin Tone:
+Warm light olive
+
+Hair:
+Dark brown
+Medium length
+Ponytail
+Loose front strand
+
+Eyes:
+Hazel Brown
+
+Face:
+Friendly
+Curious
+Expressive
+Youthful
+Natural Egyptian features
+
+==================================================
+OUTFIT
+==================================================
+
+Explorer Jacket:
+Turquoise
+Ancient Egyptian gold details
+
+Shirt:
+White
+
+Pants:
+Light brown cargo pants
+
+Gloves:
+Brown fingerless gloves
+
+Boots:
+Explorer hiking boots
+
+Backpack:
+Brown leather
+Explorer style
+
+Necklace:
+Magical glowing Ankh pendant
+(Main artifact)
+
+==================================================
+PERSONALITY
+==================================================
+
+Curious
+
+Brave
+
+Intelligent
+
+Optimistic
+
+Kind
+
+Sometimes clumsy
+
+Never gives up
+
+Loves history
+
+Loves discovering secrets
+
+==================================================
+GAMEPLAY
+==================================================
+
+Main Character
+
+Can run
+
+Jump
+
+Interact
+
+Collect artifacts
+
+Solve puzzles
+
+Travel through time
+
+==================================================
+IDLE ANIMATIONS
+==================================================
+
+Looks around
+
+Adjusts backpack
+
+Touches necklace
+
+Deep breathing
+
+==================================================
+EMOTIONS
+==================================================
+
+Happy
+
+Surprised
+
+Scared
+
+Curious
+
+Thinking
+
+Excited
+
+==================================================
+COLOR PALETTE
+==================================================
+
+Turquoise
+
+Brown
+
+Gold
+
+White
+
+==================================================

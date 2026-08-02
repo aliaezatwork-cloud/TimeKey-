@@ -1,0 +1,107 @@
+=========================================
+TIMEKEY 3D PIPELINE
+=========================================
+
+1. Character Concept
+
+?
+
+2. Turnaround Sheet
+
+?
+
+3. AI 3D Generation
+
+?
+
+4. Quality Review
+
+?
+
+5. Blender Cleanup
+
+?
+
+6. UV Check
+
+?
+
+7. Materials
+
+?
+
+8. Rigging
+
+?
+
+9. Animations
+
+?
+
+10. Export FBX
+
+?
+
+11. Unity Import
+
+?
+
+12. Final Optimization
+
+=========================================
+
+Target Poly Count
+
+Main Character
+
+15,000-25,000 Triangles
+
+Companion
+
+5,000-10,000 Triangles
+
+NPC
+
+6,000-12,000 Triangles
+
+=========================================
+
+Texture Resolution
+
+Main Character
+
+2048?2048
+
+Companion
+
+1024?1024
+
+Environment Props
+
+512?512
+
+Large Objects
+
+2048?2048
+
+=========================================
+
+Export Format
+
+FBX
+
+GLB (Backup)
+
+=========================================
+
+Target FPS
+
+60 FPS
+
+=========================================
+
+Platform
+
+Android
+
+Landscape
